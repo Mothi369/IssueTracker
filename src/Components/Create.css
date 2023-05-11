@@ -1,0 +1,39 @@
+
+.createCont{
+    position: absolute;
+    top: 12%;
+    left: 16%;
+    width: 83%;
+    height: 88%;
+    margin-bottom: 30px;
+}
+.formContainer{
+    padding: 25px;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+  height: 84%;
+
+}
+.title{
+width: 80%;
+height: 10%;
+}
+.inputStyle{
+    width: 35%;
+height: 5%;
+margin-right: 10px !important;
+
+
+}
+.labell{
+    font-weight: bold;
+    margin-right: 1px;
+}
+.submitBtn{
+    margin-left: 80%;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    font-weight: bold;
+
+}

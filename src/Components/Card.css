@@ -1,0 +1,47 @@
+.cardCont{
+    background-color: white;
+    border-radius: 4px;
+    height: 32%;
+    width: 100%;
+    margin-bottom: 4px;
+}
+.cardTop{
+    color: rgb(128, 128, 128);
+    font-size: 14px;
+    margin-right: 5px;
+display: flex;
+justify-content: flex-end;
+}
+.cardMiddle{
+    margin: 3px 10px;
+}
+.cardEnd{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 8px 20px;
+}
+.cardEndLeft{
+    font-size: 14px;
+    color: grey;
+    display: flex;
+    align-items: center;
+}
+.activeIcon{
+    margin-left: 3px;
+    width: 30px;
+    background-color: rgb(144, 172, 219);
+    border-radius: 50%;
+}
+.activeIconn{
+    color: rgb(39, 94, 182);
+}
+.cardEndRight{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 8px;
+}
+.bold{
+    margin-right: 5px;
+}

@@ -1,0 +1,58 @@
+
+.dContainer{
+    position: absolute;
+    top: 12%;
+    left: 16%;
+    width: 83%;
+    height: 88%;
+    margin-bottom: 30px;
+}
+.containers{
+  
+}
+
+.top{
+    
+    height: 200px;
+    margin: 10px;
+}
+.graph{
+    background-color: white;
+    height: 70%;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+
+}
+.bottom{
+   
+    margin-bottom: 30px;
+    height: 80vh;
+    display: grid;
+    grid-template-columns: repeat(3,32%);
+}
+.latest{
+    padding: 15px 5px;
+    text-align: center;
+    background-color: #e8e8e8;
+    margin-right: 3%;
+    margin-bottom:5% ;
+}
+.highPriority{
+    text-align: center;
+    background-color: #e8e8e8;
+    margin-right: 3%;
+    padding: 15px 5px;
+   
+
+}
+.list{
+    padding: 15px 5px;
+
+    text-align: center;
+    background-color: #e8e8e8;
+    
+}
+.subDash{
+    background-color: white;
+    padding: 0 40px;
+    margin: 10px 0;
+}

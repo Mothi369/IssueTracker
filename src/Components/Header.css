@@ -1,0 +1,51 @@
+
+.mainContainer{
+   
+position: fixed;
+margin: 10px 10px;
+height: 10% !important;
+    width: 98%;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.headerLeft{
+display: flex;
+align-items: center;
+margin-left: -10%;
+}
+.logo{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  
+}
+.logo h2{
+    margin-left: -20%;
+}
+.headerRight{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.searchBar{
+    display: flex;
+    align-items: center;
+margin-right: 40px;
+}
+.profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+margin-right: -30%;
+}
+.images{
+margin: 10px;
+}
+.images1{
+   height: 40px;
+}

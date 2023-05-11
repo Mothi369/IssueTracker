@@ -1,0 +1,29 @@
+.mainBody{
+    position: absolute;
+    top: 11.5%;
+    left: 10px;
+     height: 90%;
+     width: 14%;
+      background-color: rgb(13, 15, 48);
+}
+.containerr{
+   margin-top: 20%;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: ;
+}
+.containerr button{
+    border-style: none;
+    background: none;
+   border-bottom: 1px solid #fff;
+}
+.containerr button h2{
+    color: white;
+}
+button:visited{
+    background-color: antiquewhite;
+}
+ button:hover{
+    background-color: rgb(49, 58, 196);
+}

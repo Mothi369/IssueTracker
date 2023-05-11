@@ -1,0 +1,52 @@
+.issueCont{
+    position: absolute;
+    top: 12%;
+    left: 16%;
+    width: 83%;
+    height: 88%;
+    margin-bottom: 30px;
+}
+.issueTop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.issueDate{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+.issueContent{
+    display: grid;
+    margin-left: 3%;
+    height:700px ;
+    grid-template-columns: repeat(3,30%);
+}
+.toDo{
+    background-color: #e8e8e8;
+    text-align: center;
+   
+    margin-right: 2%;
+    padding: 15px 5px;
+    
+}
+.inProgress{
+    background-color: #e8e8e8;
+    text-align: center;
+   
+    margin-right: 2%;
+    padding: 15px 5px;
+    
+}
+.done{
+    background-color: #e8e8e8;
+    text-align: center;
+    
+    margin-right: 2%;
+    padding: 15px 5px;
+    
+}
+.heading{
+    background-color: white;
+    padding: 5px 80px;
+}
